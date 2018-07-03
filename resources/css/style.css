@@ -1,7 +1,15 @@
-h1 {
+.topbottom {
   font-family: verdana;
   font-weight: normal;
   font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.second {
+  font-family: verdana;
+  font-size: 42px;
+  font-weight: 300;
   color: white;
   text-align: center;
 }
@@ -15,4 +23,15 @@ p {
   color: aquamarine;
   font-size: 16px;
   text-align: center;
+}
+
+#gray {
+  color: gray;
+  font-size: 21px;
+  font-family: verdana;
+}
+
+.excursion {
+  color: gray;
+  text-align: right;
 }
