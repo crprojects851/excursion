@@ -34,10 +34,24 @@ p {
 .excursion {
   color: gray;
   text-align: right;
+  font-size: 21px;
+  font-family: verdana;
 }
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+a:link {
+  color: aquamarine;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:active {
+  color: inherit;
 }
